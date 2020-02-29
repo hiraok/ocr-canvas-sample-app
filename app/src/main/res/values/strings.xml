@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ocr-canvas-sample-app</string>
+    <string name="string_save_ok">保存が完了しました</string>
 </resources>

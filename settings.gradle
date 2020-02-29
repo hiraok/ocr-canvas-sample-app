@@ -1,0 +1,2 @@
+rootProject.name='ocr-canvas-sample-app'
+include ':app'
